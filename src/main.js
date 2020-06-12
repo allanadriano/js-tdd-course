@@ -1,4 +1,9 @@
-const name = 'allan';
-const profile = 'adriano';
+const a = 3;
+const b = 2;
+const c = 'allan'
 
-console.log(name, profile);
+function sum() {
+  return a + b + c;
+}
+
+sum()
